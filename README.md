@@ -1,4 +1,4 @@
 # meu_primeiro_site
-Atividade Da Faculdade (front-end)
+Atividade Da Faculdade 
 
 uma página simples de apresentação pessoal.
